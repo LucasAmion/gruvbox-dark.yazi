@@ -2,6 +2,7 @@
 
 # : Manager {{{
 
+
 [mgr]
 cwd = { fg = "#83a598" }
 
