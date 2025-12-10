@@ -8,7 +8,7 @@
 
 ## 👀 Preview
 
-<img src="preview.png" width="600" />
+<img src="https://github.com/bennyyip/i/blob/main/yazi-gruvbox-dark.png?raw=true" width="600" />
 
 ## 🎨 Installation
 
