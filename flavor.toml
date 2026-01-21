@@ -214,7 +214,7 @@ rules = [
 
   # Fallback
   { url = "*", fg = "#ebdbb2" },
-  { url = "*/", fg = "#83a598" },
+  { url = "*/", fg = "blue" },
 ]
 
 # : }}}
